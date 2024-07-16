@@ -1,4 +1,7 @@
 # -Airflow-Space-Project-
+
+[Teoría y Contexto](https://www.notion.so/german-salina/Apache-Airflow-80560138773e4accb2d8bc7b5fc86468)
+
 Proyecto: Explorar un satélite  y responder ante la información obtenida.
 
 Los analistas necesitan la información de quienes han accedido 
