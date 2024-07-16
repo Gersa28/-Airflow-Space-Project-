@@ -1,0 +1,7 @@
+git remote add origin https://github.com/usuario/nombre-repositorio.git
+
+git remote -v
+
+git pull origin main
+
+git add .
