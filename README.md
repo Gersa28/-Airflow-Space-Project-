@@ -10,3 +10,5 @@ Procedimiento:
 2.  Recolectar datos del satélite y dejarlos en un fichero.
 3. Recolectar datos de la API de SpaceX y dejarlos en un fichero.
 4. Enviar un mensaje a los equipos de que los datos finales están disponibles.
+
+![](SpaceExplorer.png)
